@@ -1,0 +1,451 @@
+{
+  "generated_at_utc": "2026-09-07T15:07:11.739261+00:00",
+  "fetch_status": {
+    "cvdprevent": "see nested detail",
+    "fingertips": "see nested detail",
+    "cqc": "ok",
+    "nhs_england_bulk": "see nested detail",
+    "imd": "see nested detail",
+    "openprescribing": "see nested detail",
+    "nhs_digital": "unreachable -- if this is the sandbox, expected; if this is the Action, investigate"
+  },
+  "sources": {
+    "cqc": {
+      "file_count": 1,
+      "total_bytes": 18947416,
+      "files": [
+        {
+          "path": "cqc/2026-09-07_CQC_directory.csv",
+          "bytes": 18947416
+        }
+      ]
+    },
+    "cvdprevent": {
+      "file_count": 53,
+      "total_bytes": 8092190,
+      "files": [
+        {
+          "path": "cvdprevent/33/CVDP007HYP_region.csv",
+          "bytes": 73839
+        },
+        {
+          "path": "cvdprevent/33/CVDP009CHOL_icb.csv",
+          "bytes": 403045
+        },
+        {
+          "path": "cvdprevent/33/manifest.json",
+          "bytes": 1603
+        },
+        {
+          "path": "cvdprevent/33/CVDP003HYP_region.csv",
+          "bytes": 55614
+        },
+        {
+          "path": "cvdprevent/33/CVDP006CHOL_icb.csv",
+          "bytes": 450628
+        },
+        {
+          "path": "cvdprevent/33/CVDP003HYP_england.csv",
+          "bytes": 8117
+        },
+        {
+          "path": "cvdprevent/33/CVDP005AF_region.csv",
+          "bytes": 81802
+        },
+        {
+          "path": "cvdprevent/33/CVDP003HYP_icb.csv",
+          "bytes": 365146
+        },
+        {
+          "path": "cvdprevent/33/CVDP006CKD_icb.csv",
+          "bytes": 383376
+        },
+        {
+          "path": "cvdprevent/33/CVDP001HYP_icb.csv",
+          "bytes": 294100
+        },
+        {
+          "path": "cvdprevent/33/CVDP001CKD_region.csv",
+          "bytes": 40631
+        },
+        {
+          "path": "cvdprevent/33/CVDP001SMOK_region.csv",
+          "bytes": 76540
+        },
+        {
+          "path": "cvdprevent/33/CVDP002HYP_england.csv",
+          "bytes": 10093
+        },
+        {
+          "path": "cvdprevent/33/CVDP006CHOL_england.csv",
+          "bytes": 9798
+        },
+        {
+          "path": "cvdprevent/33/CVDP002SMOK_region.csv",
+          "bytes": 77843
+        },
+        {
+          "path": "cvdprevent/33/CVDP002SMOK_icb.csv",
+          "bytes": 511948
+        },
+        {
+          "path": "cvdprevent/33/CVDP006CKD_england.csv",
+          "bytes": 8198
+        },
+        {
+          "path": "cvdprevent/33/CVDP001SMOK_icb.csv",
+          "bytes": 504168
+        },
+        {
+          "path": "cvdprevent/33/CVDP005AF_icb.csv",
+          "bytes": 536506
+        },
+        {
+          "path": "cvdprevent/33/CVDP001AF_england.csv",
+          "bytes": 5932
+        },
+        {
+          "path": "cvdprevent/33/CVDP001CVD_icb.csv",
+          "bytes": 314764
+        },
+        {
+          "path": "cvdprevent/33/CVDP002CKD_icb.csv",
+          "bytes": 289204
+        },
+        {
+          "path": "cvdprevent/33/CVDP002HYP_region.csv",
+          "bytes": 69604
+        },
+        {
+          "path": "cvdprevent/33/CVDP006CKD_region.csv",
+          "bytes": 56411
+        },
+        {
+          "path": "cvdprevent/33/dataAvailability.json",
+          "bytes": 255
+        },
+        {
+          "path": "cvdprevent/33/CVDP001AF_icb.csv",
+          "bytes": 284624
+        },
+        {
+          "path": "cvdprevent/33/CVDP007HYP_england.csv",
+          "bytes": 10685
+        },
+        {
+          "path": "cvdprevent/33/CVDP007HYP_icb.csv",
+          "bytes": 487936
+        },
+        {
+          "path": "cvdprevent/33/CVDP002AF_region.csv",
+          "bytes": 69635
+        },
+        {
+          "path": "cvdprevent/33/CVDP006HYP_england.csv",
+          "bytes": 11679
+        },
+        {
+          "path": "cvdprevent/33/CVDP005AF_england.csv",
+          "bytes": 11826
+        },
+        {
+          "path": "cvdprevent/33/CVDP006CHOL_region.csv",
+          "bytes": 67618
+        },
+        {
+          "path": "cvdprevent/33/CVDP001CKD_england.csv",
+          "bytes": 5932
+        },
+        {
+          "path": "cvdprevent/33/CVDP001SMOK_england.csv",
+          "bytes": 11077
+        },
+        {
+          "path": "cvdprevent/33/CVDP002SMOK_england.csv",
+          "bytes": 11260
+        },
+        {
+          "path": "cvdprevent/33/CVDP001CVD_england.csv",
+          "bytes": 6654
+        },
+        {
+          "path": "cvdprevent/33/CVDP001HYP_region.csv",
+          "bytes": 42190
+        },
+        {
+          "path": "cvdprevent/33/CVDP006HYP_region.csv",
+          "bytes": 80769
+        },
+        {
+          "path": "cvdprevent/33/CVDP002HYP_icb.csv",
+          "bytes": 458069
+        },
+        {
+          "path": "cvdprevent/33/CVDP001AF_region.csv",
+          "bytes": 40610
+        },
+        {
+          "path": "cvdprevent/33/CVDP001CKD_icb.csv",
+          "bytes": 284902
+        },
+        {
+          "path": "cvdprevent/33/CVDP001CVD_region.csv",
+          "bytes": 45620
+        },
+        {
+          "path": "cvdprevent/33/CVDP002CKD_england.csv",
+          "bytes": 6355
+        },
+        {
+          "path": "cvdprevent/33/CVDP005HYP_region.csv",
+          "bytes": 51989
+        },
+        {
+          "path": "cvdprevent/33/CVDP002AF_england.csv",
+          "bytes": 10098
+        },
+        {
+          "path": "cvdprevent/33/CVDP005HYP_england.csv",
+          "bytes": 7598
+        },
+        {
+          "path": "cvdprevent/33/CVDP001HYP_england.csv",
+          "bytes": 6160
+        },
+        {
+          "path": "cvdprevent/33/CVDP002AF_icb.csv",
+          "bytes": 464267
+        },
+        {
+          "path": "cvdprevent/33/CVDP002CKD_region.csv",
+          "bytes": 43326
+        },
+        {
+          "path": "cvdprevent/33/CVDP009CHOL_england.csv",
+          "bytes": 8664
+        },
+        {
+          "path": "cvdprevent/33/CVDP006HYP_icb.csv",
+          "bytes": 533397
+        },
+        {
+          "path": "cvdprevent/33/CVDP009CHOL_region.csv",
+          "bytes": 59681
+        },
+        {
+          "path": "cvdprevent/33/CVDP005HYP_icb.csv",
+          "bytes": 340404
+        }
+      ]
+    },
+    "fft": {
+      "file_count": 12,
+      "total_bytes": 11439147,
+      "files": [
+        {
+          "path": "fft/friends-and-family-test-dental-submission-checker-june-2026.xlsm",
+          "bytes": 2622022
+        },
+        {
+          "path": "fft/friends-and-family-test-accident-and-emergency-data-june-2026.xlsm",
+          "bytes": 161890
+        },
+        {
+          "path": "fft/friends-and-family-test-ambulance-including-patient-transport-services-data-june-2026.xlsm",
+          "bytes": 103219
+        },
+        {
+          "path": "fft/friends-and-family-test-community-health-data-june-2026.xlsm",
+          "bytes": 176040
+        },
+        {
+          "path": "fft/friends-and-family-test-outpatient-data-june-2026.xlsm",
+          "bytes": 121636
+        },
+        {
+          "path": "fft/friends-and-family-test-dental-data-june-2026.xlsm",
+          "bytes": 1444328
+        },
+        {
+          "path": "fft/friends-and-family-test-maternity-data-june-2026.xlsm",
+          "bytes": 432780
+        },
+        {
+          "path": "fft/friends-and-family-test-inpatient-data-june-2026.xlsm",
+          "bytes": 1136907
+        },
+        {
+          "path": "fft/friends-and-family-test-mental-health-data-june-2026.xlsm",
+          "bytes": 144470
+        },
+        {
+          "path": "fft/friends-and-family-test-data-collection-overview-june-2026.xlsx",
+          "bytes": 18461
+        },
+        {
+          "path": "fft/friends-and-family-test-GP-data-june-2026.xlsm",
+          "bytes": 1502313
+        },
+        {
+          "path": "fft/friends-and-family-test-gp-submission-checker-may-2026.xlsm",
+          "bytes": 3575081
+        }
+      ]
+    },
+    "fingertips": {
+      "file_count": 17,
+      "total_bytes": 8225620,
+      "files": [
+        {
+          "path": "fingertips/93881_icb.csv",
+          "bytes": 321156
+        },
+        {
+          "path": "fingertips/93465_england.csv",
+          "bytes": 1014
+        },
+        {
+          "path": "fingertips/91547_icb.csv",
+          "bytes": 92745
+        },
+        {
+          "path": "fingertips/manifest.json",
+          "bytes": 1543
+        },
+        {
+          "path": "fingertips/93881_england.csv",
+          "bytes": 283823
+        },
+        {
+          "path": "fingertips/93722_england.csv",
+          "bytes": 1232177
+        },
+        {
+          "path": "fingertips/241_icb.csv",
+          "bytes": 628126
+        },
+        {
+          "path": "fingertips/241_england.csv",
+          "bytes": 513424
+        },
+        {
+          "path": "fingertips/93255_england.csv",
+          "bytes": 806
+        },
+        {
+          "path": "fingertips/91547_england.csv",
+          "bytes": 63112
+        },
+        {
+          "path": "fingertips/93722_region.csv",
+          "bytes": 1367388
+        },
+        {
+          "path": "fingertips/90362_england.csv",
+          "bytes": 103395
+        },
+        {
+          "path": "fingertips/93015_icb.csv",
+          "bytes": 247127
+        },
+        {
+          "path": "fingertips/241_region.csv",
+          "bytes": 536511
+        },
+        {
+          "path": "fingertips/93015_england.csv",
+          "bytes": 247127
+        },
+        {
+          "path": "fingertips/93722_icb.csv",
+          "bytes": 2269048
+        },
+        {
+          "path": "fingertips/90362_icb.csv",
+          "bytes": 317098
+        }
+      ]
+    },
+    "imd": {
+      "file_count": 15,
+      "total_bytes": 51230821,
+      "files": [
+        {
+          "path": "imd/2025/File_13_-_IoD2025_Integrated_Care_Board__ICB__Summaries.xlsx",
+          "bytes": 54159
+        },
+        {
+          "path": "imd/2025/File_10_-_IoD2025_Local_Authority_District_Summaries__lower-tier__v2.xlsx",
+          "bytes": 226470
+        },
+        {
+          "path": "imd/2025/File_4_IoD2025_Sub-domains_of_Deprivation.xlsx",
+          "bytes": 4769263
+        },
+        {
+          "path": "imd/2025/File_6_IoD2025_Population_Denominators.xlsx",
+          "bytes": 2137125
+        },
+        {
+          "path": "imd/2025/File_12_-_IoD2025_Local_Enterprise_Partnership__LEP__Summaries.xlsx",
+          "bytes": 53027
+        },
+        {
+          "path": "imd/2025/File_14_-_IoD2025_Local_Resilience_Forum__LRG__Summaries_v2.xlsx",
+          "bytes": 53065
+        },
+        {
+          "path": "imd/2025/File_7_IoD2025_All_Ranks_Scores_Deciles_Population_Denominators.csv",
+          "bytes": 9897666
+        },
+        {
+          "path": "imd/2025/File_8_IoD2025_Underlying_Indicators.xlsx",
+          "bytes": 14500506
+        },
+        {
+          "path": "imd/2025/File_3_IoD2025_Supplementary_Indices_IDACI_and_IDAOPI.xlsx",
+          "bytes": 2283090
+        },
+        {
+          "path": "imd/2025/File_15_-_IoD2025_Built_Up_Area__BUA__Summaries.xlsx",
+          "bytes": 2414001
+        },
+        {
+          "path": "imd/2025/File_1_IoD2025_Index_of_Multiple_Deprivation.xlsx",
+          "bytes": 1469027
+        },
+        {
+          "path": "imd/2025/File_2_IoD2025_Domains_of_Deprivation.xlsx",
+          "bytes": 4337372
+        },
+        {
+          "path": "imd/2025/File_5_IoD2025_Scores_for_the_Indices_of_Deprivation.xlsx",
+          "bytes": 5653934
+        },
+        {
+          "path": "imd/2025/File_11_-_IoD2025_Local_Authority_District_Summaries__upper-tier__v2.xlsx",
+          "bytes": 131881
+        },
+        {
+          "path": "imd/2025/File_9_IoD2025_Transformed_Domain_Scores.xlsx",
+          "bytes": 3250235
+        }
+      ]
+    },
+    "openprescribing": {
+      "file_count": 0,
+      "total_bytes": 0,
+      "files": []
+    },
+    "rtt": {
+      "file_count": 1,
+      "total_bytes": 3580888,
+      "files": [
+        {
+          "path": "rtt/Full-CSV-data-file-Mar26-ZIP-3M-revised.zip",
+          "bytes": 3580888
+        }
+      ]
+    }
+  }
+}
