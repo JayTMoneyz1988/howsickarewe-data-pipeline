@@ -1,25 +1,6 @@
 {
-  "generated_at_utc": "2026-09-07T15:07:11.739261+00:00",
-  "fetch_status": {
-    "cvdprevent": "see nested detail",
-    "fingertips": "see nested detail",
-    "cqc": "ok",
-    "nhs_england_bulk": "see nested detail",
-    "imd": "see nested detail",
-    "openprescribing": "see nested detail",
-    "nhs_digital": "unreachable -- if this is the sandbox, expected; if this is the Action, investigate"
-  },
+  "generated_at_utc": "2026-09-07T23:40:13.826065+00:00",
   "sources": {
-    "cqc": {
-      "file_count": 1,
-      "total_bytes": 18947416,
-      "files": [
-        {
-          "path": "cqc/2026-09-07_CQC_directory.csv",
-          "bytes": 18947416
-        }
-      ]
-    },
     "cvdprevent": {
       "file_count": 53,
       "total_bytes": 8092190,
@@ -238,60 +219,6 @@
         }
       ]
     },
-    "fft": {
-      "file_count": 12,
-      "total_bytes": 11439147,
-      "files": [
-        {
-          "path": "fft/friends-and-family-test-dental-submission-checker-june-2026.xlsm",
-          "bytes": 2622022
-        },
-        {
-          "path": "fft/friends-and-family-test-accident-and-emergency-data-june-2026.xlsm",
-          "bytes": 161890
-        },
-        {
-          "path": "fft/friends-and-family-test-ambulance-including-patient-transport-services-data-june-2026.xlsm",
-          "bytes": 103219
-        },
-        {
-          "path": "fft/friends-and-family-test-community-health-data-june-2026.xlsm",
-          "bytes": 176040
-        },
-        {
-          "path": "fft/friends-and-family-test-outpatient-data-june-2026.xlsm",
-          "bytes": 121636
-        },
-        {
-          "path": "fft/friends-and-family-test-dental-data-june-2026.xlsm",
-          "bytes": 1444328
-        },
-        {
-          "path": "fft/friends-and-family-test-maternity-data-june-2026.xlsm",
-          "bytes": 432780
-        },
-        {
-          "path": "fft/friends-and-family-test-inpatient-data-june-2026.xlsm",
-          "bytes": 1136907
-        },
-        {
-          "path": "fft/friends-and-family-test-mental-health-data-june-2026.xlsm",
-          "bytes": 144470
-        },
-        {
-          "path": "fft/friends-and-family-test-data-collection-overview-june-2026.xlsx",
-          "bytes": 18461
-        },
-        {
-          "path": "fft/friends-and-family-test-GP-data-june-2026.xlsm",
-          "bytes": 1502313
-        },
-        {
-          "path": "fft/friends-and-family-test-gp-submission-checker-may-2026.xlsm",
-          "bytes": 3575081
-        }
-      ]
-    },
     "fingertips": {
       "file_count": 17,
       "total_bytes": 8225620,
@@ -366,6 +293,80 @@
         }
       ]
     },
+    "cqc": {
+      "file_count": 1,
+      "total_bytes": 18947416,
+      "files": [
+        {
+          "path": "cqc/2026-09-07_CQC_directory.csv",
+          "bytes": 18947416
+        }
+      ]
+    },
+    "rtt": {
+      "file_count": 1,
+      "total_bytes": 3580888,
+      "files": [
+        {
+          "path": "rtt/Full-CSV-data-file-Mar26-ZIP-3M-revised.zip",
+          "bytes": 3580888
+        }
+      ]
+    },
+    "fft": {
+      "file_count": 12,
+      "total_bytes": 11439147,
+      "files": [
+        {
+          "path": "fft/friends-and-family-test-dental-submission-checker-june-2026.xlsm",
+          "bytes": 2622022
+        },
+        {
+          "path": "fft/friends-and-family-test-accident-and-emergency-data-june-2026.xlsm",
+          "bytes": 161890
+        },
+        {
+          "path": "fft/friends-and-family-test-ambulance-including-patient-transport-services-data-june-2026.xlsm",
+          "bytes": 103219
+        },
+        {
+          "path": "fft/friends-and-family-test-community-health-data-june-2026.xlsm",
+          "bytes": 176040
+        },
+        {
+          "path": "fft/friends-and-family-test-outpatient-data-june-2026.xlsm",
+          "bytes": 121636
+        },
+        {
+          "path": "fft/friends-and-family-test-dental-data-june-2026.xlsm",
+          "bytes": 1444328
+        },
+        {
+          "path": "fft/friends-and-family-test-maternity-data-june-2026.xlsm",
+          "bytes": 432780
+        },
+        {
+          "path": "fft/friends-and-family-test-inpatient-data-june-2026.xlsm",
+          "bytes": 1136907
+        },
+        {
+          "path": "fft/friends-and-family-test-mental-health-data-june-2026.xlsm",
+          "bytes": 144470
+        },
+        {
+          "path": "fft/friends-and-family-test-data-collection-overview-june-2026.xlsx",
+          "bytes": 18461
+        },
+        {
+          "path": "fft/friends-and-family-test-GP-data-june-2026.xlsm",
+          "bytes": 1502313
+        },
+        {
+          "path": "fft/friends-and-family-test-gp-submission-checker-may-2026.xlsm",
+          "bytes": 3575081
+        }
+      ]
+    },
     "imd": {
       "file_count": 15,
       "total_bytes": 51230821,
@@ -437,15 +438,14 @@
       "total_bytes": 0,
       "files": []
     },
-    "rtt": {
-      "file_count": 1,
-      "total_bytes": 3580888,
-      "files": [
-        {
-          "path": "rtt/Full-CSV-data-file-Mar26-ZIP-3M-revised.zip",
-          "bytes": 3580888
-        }
-      ]
+    "nda": {
+      "file_count": 0,
+      "total_bytes": 0,
+      "files": []
     }
-  }
+  },
+  "warnings": [
+    "openprescribing: folder does not exist -- this source has never run successfully",
+    "nda: folder does not exist -- this source has never run successfully"
+  ]
 }
