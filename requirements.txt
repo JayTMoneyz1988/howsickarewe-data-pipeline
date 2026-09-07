@@ -1,1 +1,2 @@
 requests>=2.31
+fingertips_py>=0.4
