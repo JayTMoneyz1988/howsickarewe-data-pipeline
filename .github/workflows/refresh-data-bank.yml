@@ -1,26 +1,16 @@
 name: Refresh NHS data bank
 
-# Split into two jobs because they need different network conditions to work:
+# Single job, five sources: CVDPREVENT, Fingertips, CQC, NHS England RTT/FFT,
+# IMD. All confirmed reachable from GitHub's own cloud runners.
 #
-#   fetch-cloud runs on GitHub's own servers. Five sources (CVDPREVENT,
-#   Fingertips, CQC, NHS England RTT/FFT, IMD) work fine from there.
-#
-#   fetch-local runs on a self-hosted runner -- your own computer, registered
-#   as a runner in this repo's Settings -> Actions -> Runners. OpenPrescribing
-#   and NHS Digital both block requests from datacenter IP ranges (this was
-#   tested against GitHub's own cloud runners, not just the Claude sandbox --
-#   both got the same Cloudflare bot-challenge). A normal home internet
-#   connection isn't in that category, so this job runs there instead.
-#
-# fetch-local depends on fetch-cloud finishing first (see "needs:" below) so
-# the two jobs never try to push to the repo at the same time.
+# OpenPrescribing and NHS Digital (National Diabetes Audit) are deliberately
+# NOT in this workflow. Both reject requests from datacenter IP ranges
+# (Cloudflare bot-challenge). These two are fetched manually instead --
+# see MANUAL-FETCH-GUIDE.md for the exact steps.
 
 on:
   schedule:
-    - cron: "0 6 * * 1"  # Monday 06:00 UTC. If your computer is off at that
-                          # moment, GitHub queues the fetch-local job and runs
-                          # it as soon as the runner next comes online, rather
-                          # than silently skipping it.
+    - cron: "0 6 * * 1"
   workflow_dispatch: {}
 
 permissions:
@@ -54,46 +44,13 @@ jobs:
       - name: Fetch IMD
         run: python3 scripts/fetch_imd.py
 
-      - name: Commit and push if data changed
-        run: |
-          git config user.name "data-pipeline-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/
-          git diff --staged --quiet || git commit -m "Cloud sources refresh $(date -u +%Y-%m-%d)"
-          git push
-
-  fetch-local:
-    needs: fetch-cloud
-    runs-on: self-hosted
-    steps:
-      - uses: actions/checkout@v4
-        # This pulls the commit fetch-cloud just pushed, so this job starts
-        # from a complete, up-to-date copy rather than an older snapshot.
-
-      - name: Install dependencies
-        run: python -m pip install -r requirements.txt
-        # Uses "python", not "python3" -- the standard python.org Windows
-        # installer registers the command as "python". This job runs on your
-        # own machine, not GitHub's, so it relies on whatever Python install
-        # is already on the PATH there (see the setup guide for installing
-        # Python first, before registering the runner).
-
-      - name: Fetch OpenPrescribing
-        run: python scripts/fetch_openprescribing.py
-
-      - name: Fetch NHS Digital publications
-        run: python scripts/fetch_nhs_digital.py
-
       - name: Update manifest
-        run: python scripts/update_manifest.py
-        # Runs here, last, so the manifest reflects both jobs' output --
-        # not just whichever job happened to finish last.
+        run: python3 scripts/update_manifest.py
 
       - name: Commit and push if data changed
         run: |
           git config user.name "data-pipeline-bot"
           git config user.email "actions@users.noreply.github.com"
-          git pull
           git add data/
-          git diff --staged --quiet || git commit -m "Local sources refresh $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "Automated data refresh $(date -u +%Y-%m-%d)"
           git push
