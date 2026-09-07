@@ -1,0 +1,63 @@
+{
+  "fetched_at_utc": "2026-09-07T13:17:09.343649+00:00",
+  "files": [
+    "93722_england.csv",
+    "93722_region.csv",
+    "93722_icb.csv",
+    "93255_england.csv",
+    "241_england.csv",
+    "241_region.csv",
+    "241_icb.csv",
+    "91547_england.csv",
+    "91547_icb.csv",
+    "93881_england.csv",
+    "93881_icb.csv",
+    "93015_england.csv",
+    "93015_icb.csv",
+    "93465_england.csv",
+    "90362_england.csv",
+    "90362_icb.csv"
+  ],
+  "failed": [
+    {
+      "indicator_id": 93255,
+      "level": "region",
+      "note": "empty -- indicator may not publish at this geography"
+    },
+    {
+      "indicator_id": 93255,
+      "level": "icb",
+      "note": "empty -- indicator may not publish at this geography"
+    },
+    {
+      "indicator_id": 91547,
+      "level": "region",
+      "note": "empty -- indicator may not publish at this geography"
+    },
+    {
+      "indicator_id": 93881,
+      "level": "region",
+      "note": "empty -- indicator may not publish at this geography"
+    },
+    {
+      "indicator_id": 93015,
+      "level": "region",
+      "note": "empty -- indicator may not publish at this geography"
+    },
+    {
+      "indicator_id": 93465,
+      "level": "region",
+      "note": "empty -- indicator may not publish at this geography"
+    },
+    {
+      "indicator_id": 93465,
+      "level": "icb",
+      "note": "empty -- indicator may not publish at this geography"
+    },
+    {
+      "indicator_id": 90362,
+      "level": "region",
+      "note": "empty -- indicator may not publish at this geography"
+    }
+  ]
+}

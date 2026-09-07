@@ -1,0 +1,849 @@
+Indicator ID,Indicator Name,Parent Code,Parent Name,Area Code,Area Name,Area Type,Sex,Age,Category Type,Category,Time period,Value,Lower CI 95.0 limit,Upper CI 95.0 limit,Lower CI 99.8 limit,Upper CI 99.8 limit,Count,Denominator,Value note,Recent Trend,Compared to England value or percentiles,Compared to percentiles,Time period Sortable,New data,Compared to goal,Time period range
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2011 - 13,63.0,62.9,63.2,,,,,,,Not compared,Not compared,20110000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2011 - 13,63.9,63.7,64.1,,,,,,,Not compared,Not compared,20110000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2011 - 13,63.0,62.9,63.2,,,,,,,Similar,Not compared,20110000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2011 - 13,63.9,63.7,64.1,,,,,,,Similar,Not compared,20110000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2012 - 14,63.2,63.0,63.4,,,,,,,Not compared,Not compared,20120000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2012 - 14,63.9,63.8,64.1,,,,,,,Not compared,Not compared,20120000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2012 - 14,63.2,63.0,63.4,,,,,,,Similar,Not compared,20120000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2012 - 14,63.9,63.8,64.1,,,,,,,Similar,Not compared,20120000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2013 - 15,63.2,63.0,63.4,,,,,,,Not compared,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2013 - 15,52.1,51.5,52.6,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2013 - 15,56.2,55.7,56.8,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2013 - 15,59.4,58.9,60.0,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2013 - 15,61.7,61.1,62.2,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2013 - 15,64.0,63.4,64.5,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2013 - 15,65.0,64.5,65.6,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2013 - 15,66.8,66.3,67.4,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2013 - 15,67.5,66.9,68.0,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2013 - 15,68.4,67.9,69.0,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2013 - 15,70.4,69.8,70.9,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2013 - 15,64.2,64.0,64.4,,,,,,,Not compared,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2013 - 15,52.2,51.6,52.8,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2013 - 15,56.0,55.4,56.6,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2013 - 15,59.5,58.9,60.2,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2013 - 15,62.7,62.1,63.3,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2013 - 15,64.7,64.1,65.3,,,,,,,Similar,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2013 - 15,66.7,66.1,67.3,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2013 - 15,67.1,66.5,67.7,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2013 - 15,68.5,67.9,69.1,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2013 - 15,69.1,68.5,69.8,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2013 - 15,71.3,70.7,71.9,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2013 - 15,63.2,63.0,63.4,,,,,,,Similar,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2013 - 15,52.1,51.5,52.6,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2013 - 15,56.2,55.7,56.8,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2013 - 15,59.4,58.9,60.0,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2013 - 15,61.7,61.1,62.2,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2013 - 15,64.0,63.4,64.5,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2013 - 15,65.0,64.5,65.6,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2013 - 15,66.8,66.3,67.4,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2013 - 15,67.5,66.9,68.0,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2013 - 15,68.4,67.9,69.0,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2013 - 15,70.4,69.8,70.9,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2013 - 15,64.2,64.0,64.4,,,,,,,Similar,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2013 - 15,52.2,51.6,52.8,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2013 - 15,56.0,55.4,56.6,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2013 - 15,59.5,58.9,60.2,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2013 - 15,62.7,62.1,63.3,,,,,,,Worse,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2013 - 15,64.7,64.1,65.3,,,,,,,Similar,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2013 - 15,66.7,66.1,67.3,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2013 - 15,67.1,66.5,67.7,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2013 - 15,68.5,67.9,69.1,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2013 - 15,69.1,68.5,69.8,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2013 - 15,71.3,70.7,71.9,,,,,,,Better,Not compared,20130000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2014 - 16,63.3,63.1,63.5,,,,,,,Not compared,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2014 - 16,52.3,51.8,52.8,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2014 - 16,56.3,55.7,56.9,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2014 - 16,59.2,58.6,59.8,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2014 - 16,62.1,61.5,62.7,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2014 - 16,64.4,63.9,65.0,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2014 - 16,64.9,64.3,65.5,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2014 - 16,66.5,65.9,67.0,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2014 - 16,67.4,66.9,68.0,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2014 - 16,68.8,68.3,69.3,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2014 - 16,70.2,69.7,70.8,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2014 - 16,64.0,63.8,64.3,,,,,,,Not compared,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2014 - 16,51.9,51.3,52.5,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2014 - 16,56.6,55.9,57.2,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2014 - 16,59.5,58.8,60.1,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2014 - 16,62.7,62.1,63.4,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2014 - 16,64.1,63.4,64.7,,,,,,,Similar,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2014 - 16,65.7,65.1,66.4,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2014 - 16,66.8,66.2,67.5,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2014 - 16,68.2,67.6,68.9,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2014 - 16,68.7,68.0,69.4,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2014 - 16,70.8,70.1,71.4,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2014 - 16,63.3,63.1,63.5,,,,,,,Similar,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2014 - 16,52.3,51.8,52.8,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2014 - 16,56.3,55.7,56.9,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2014 - 16,59.2,58.6,59.8,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2014 - 16,62.1,61.5,62.7,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2014 - 16,64.4,63.9,65.0,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2014 - 16,64.9,64.3,65.5,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2014 - 16,66.5,65.9,67.0,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2014 - 16,67.4,66.9,68.0,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2014 - 16,68.8,68.3,69.3,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2014 - 16,70.2,69.7,70.8,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2014 - 16,64.0,63.8,64.3,,,,,,,Similar,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2014 - 16,51.9,51.3,52.5,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2014 - 16,56.6,55.9,57.2,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2014 - 16,59.5,58.8,60.1,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2014 - 16,62.7,62.1,63.4,,,,,,,Worse,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2014 - 16,64.1,63.4,64.7,,,,,,,Similar,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2014 - 16,65.7,65.1,66.4,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2014 - 16,66.8,66.2,67.5,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2014 - 16,68.2,67.6,68.9,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2014 - 16,68.7,68.0,69.4,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2014 - 16,70.8,70.1,71.4,,,,,,,Better,Not compared,20140000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2015 - 17,63.3,63.2,63.5,,,,,,,Not compared,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2015 - 17,52.1,51.6,52.7,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2015 - 17,57.0,56.4,57.5,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2015 - 17,59.1,58.5,59.7,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2015 - 17,61.9,61.3,62.4,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2015 - 17,64.0,63.5,64.6,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2015 - 17,64.7,64.1,65.3,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2015 - 17,66.5,65.9,67.1,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2015 - 17,67.7,67.1,68.2,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2015 - 17,68.9,68.4,69.4,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2015 - 17,70.3,69.7,70.8,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2015 - 17,64.0,63.8,64.2,,,,,,,Not compared,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2015 - 17,52.2,51.6,52.8,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2015 - 17,56.8,56.2,57.4,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2015 - 17,59.4,58.7,60.0,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2015 - 17,62.1,61.4,62.8,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2015 - 17,64.5,63.9,65.2,,,,,,,Similar,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2015 - 17,65.7,65.0,66.3,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2015 - 17,66.9,66.2,67.5,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2015 - 17,68.0,67.4,68.7,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2015 - 17,68.7,68.0,69.3,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2015 - 17,70.5,69.9,71.2,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2015 - 17,63.3,63.2,63.5,,,,,,,Similar,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2015 - 17,52.1,51.6,52.7,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2015 - 17,57.0,56.4,57.5,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2015 - 17,59.1,58.5,59.7,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2015 - 17,61.9,61.3,62.4,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2015 - 17,64.0,63.5,64.6,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2015 - 17,64.7,64.1,65.3,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2015 - 17,66.5,65.9,67.1,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2015 - 17,67.7,67.1,68.2,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2015 - 17,68.9,68.4,69.4,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2015 - 17,70.3,69.7,70.8,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2015 - 17,64.0,63.8,64.2,,,,,,,Similar,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2015 - 17,52.2,51.6,52.8,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2015 - 17,56.8,56.2,57.4,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2015 - 17,59.4,58.7,60.0,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2015 - 17,62.1,61.4,62.8,,,,,,,Worse,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2015 - 17,64.5,63.9,65.2,,,,,,,Similar,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2015 - 17,65.7,65.0,66.3,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2015 - 17,66.9,66.2,67.5,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2015 - 17,68.0,67.4,68.7,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2015 - 17,68.7,68.0,69.3,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2015 - 17,70.5,69.9,71.2,,,,,,,Better,Not compared,20150000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2016 - 18,63.3,63.1,63.5,,,,,,,Not compared,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2016 - 18,52.2,51.6,52.7,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2016 - 18,56.7,56.1,57.3,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2016 - 18,59.2,58.6,59.8,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2016 - 18,61.8,61.2,62.4,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2016 - 18,64.1,63.5,64.6,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2016 - 18,64.6,63.9,65.2,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2016 - 18,66.7,66.1,67.3,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2016 - 18,67.7,67.1,68.3,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2016 - 18,69.1,68.6,69.6,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2016 - 18,70.3,69.7,70.8,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2016 - 18,64.1,63.9,64.3,,,,,,,Not compared,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2016 - 18,51.8,51.2,52.5,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2016 - 18,56.6,55.9,57.3,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2016 - 18,59.4,58.7,60.1,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2016 - 18,61.9,61.2,62.6,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2016 - 18,65.4,64.8,66.1,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2016 - 18,65.4,64.7,66.1,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2016 - 18,67.1,66.4,67.7,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2016 - 18,68.3,67.7,69.0,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2016 - 18,69.1,68.4,69.7,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2016 - 18,70.8,70.2,71.5,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2016 - 18,63.3,63.1,63.5,,,,,,,Similar,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2016 - 18,52.2,51.6,52.7,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2016 - 18,56.7,56.1,57.3,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2016 - 18,59.2,58.6,59.8,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2016 - 18,61.8,61.2,62.4,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2016 - 18,64.1,63.5,64.6,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2016 - 18,64.6,63.9,65.2,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2016 - 18,66.7,66.1,67.3,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2016 - 18,67.7,67.1,68.3,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2016 - 18,69.1,68.6,69.6,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2016 - 18,70.3,69.7,70.8,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2016 - 18,64.1,63.9,64.3,,,,,,,Similar,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2016 - 18,51.8,51.2,52.5,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2016 - 18,56.6,55.9,57.3,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2016 - 18,59.4,58.7,60.1,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2016 - 18,61.9,61.2,62.6,,,,,,,Worse,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2016 - 18,65.4,64.8,66.1,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2016 - 18,65.4,64.7,66.1,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2016 - 18,67.1,66.4,67.7,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2016 - 18,68.3,67.7,69.0,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2016 - 18,69.1,68.4,69.7,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2016 - 18,70.8,70.2,71.5,,,,,,,Better,Not compared,20160000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2017 - 19,63.2,63.0,63.4,,,,,,,Not compared,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2017 - 19,52.5,51.9,53.1,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2017 - 19,56.4,55.8,57.0,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2017 - 19,58.7,58.1,59.3,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2017 - 19,62.0,61.3,62.6,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2017 - 19,63.9,63.3,64.5,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2017 - 19,64.4,63.8,65.0,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2017 - 19,66.7,66.1,67.3,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2017 - 19,67.0,66.4,67.6,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2017 - 19,68.9,68.3,69.4,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2017 - 19,70.4,69.8,70.9,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2017 - 19,63.7,63.5,64.0,,,,,,,Not compared,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2017 - 19,51.7,51.0,52.3,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2017 - 19,56.1,55.4,56.8,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2017 - 19,59.0,58.3,59.7,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2017 - 19,62.0,61.3,62.7,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2017 - 19,64.3,63.6,65.0,,,,,,,Similar,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2017 - 19,64.9,64.1,65.6,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2017 - 19,67.1,66.5,67.8,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2017 - 19,67.6,66.9,68.3,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2017 - 19,68.2,67.5,68.9,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2017 - 19,71.1,70.4,71.8,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2017 - 19,63.2,63.0,63.4,,,,,,,Similar,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2017 - 19,52.5,51.9,53.1,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2017 - 19,56.4,55.8,57.0,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2017 - 19,58.7,58.1,59.3,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2017 - 19,62.0,61.3,62.6,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2017 - 19,63.9,63.3,64.5,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2017 - 19,64.4,63.8,65.0,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2017 - 19,66.7,66.1,67.3,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2017 - 19,67.0,66.4,67.6,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2017 - 19,68.9,68.3,69.4,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2017 - 19,70.4,69.8,70.9,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2017 - 19,63.7,63.5,64.0,,,,,,,Similar,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2017 - 19,51.7,51.0,52.3,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2017 - 19,56.1,55.4,56.8,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2017 - 19,59.0,58.3,59.7,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2017 - 19,62.0,61.3,62.7,,,,,,,Worse,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2017 - 19,64.3,63.6,65.0,,,,,,,Similar,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2017 - 19,64.9,64.1,65.6,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2017 - 19,67.1,66.5,67.8,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2017 - 19,67.6,66.9,68.3,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2017 - 19,68.2,67.5,68.9,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2017 - 19,71.1,70.4,71.8,,,,,,,Better,Not compared,20170000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2018 - 20,63.1,62.9,63.3,,,,,,,Not compared,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2018 - 20,52.3,51.7,53.0,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2018 - 20,56.8,56.2,57.5,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2018 - 20,58.6,57.9,59.3,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2018 - 20,61.3,60.6,61.9,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2018 - 20,64.2,63.6,64.8,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2018 - 20,65.2,64.5,65.8,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2018 - 20,66.3,65.7,66.9,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2018 - 20,67.6,67.0,68.2,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2018 - 20,68.2,67.6,68.8,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2018 - 20,70.3,69.7,70.8,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2018 - 20,64.0,63.8,64.3,,,,,,,Not compared,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2018 - 20,51.7,51.0,52.4,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2018 - 20,56.7,56.0,57.5,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2018 - 20,59.5,58.7,60.3,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2018 - 20,61.9,61.1,62.6,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2018 - 20,64.5,63.8,65.2,,,,,,,Similar,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2018 - 20,65.2,64.5,66.0,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2018 - 20,67.5,66.8,68.2,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2018 - 20,68.6,67.9,69.3,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2018 - 20,69.4,68.8,70.1,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2018 - 20,70.7,70.0,71.4,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2018 - 20,63.1,62.9,63.3,,,,,,,Similar,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2018 - 20,52.3,51.7,53.0,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2018 - 20,56.8,56.2,57.5,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2018 - 20,58.6,57.9,59.3,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2018 - 20,61.3,60.6,61.9,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2018 - 20,64.2,63.6,64.8,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2018 - 20,65.2,64.5,65.8,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2018 - 20,66.3,65.7,66.9,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2018 - 20,67.6,67.0,68.2,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2018 - 20,68.2,67.6,68.8,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2018 - 20,70.3,69.7,70.8,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2018 - 20,64.0,63.8,64.3,,,,,,,Similar,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2018 - 20,51.7,51.0,52.4,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2018 - 20,56.7,56.0,57.5,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2018 - 20,59.5,58.7,60.3,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2018 - 20,61.9,61.1,62.6,,,,,,,Worse,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2018 - 20,64.5,63.8,65.2,,,,,,,Similar,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2018 - 20,65.2,64.5,66.0,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2018 - 20,67.5,66.8,68.2,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2018 - 20,68.6,67.9,69.3,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2018 - 20,69.4,68.8,70.1,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2018 - 20,70.7,70.0,71.4,,,,,,,Better,Not compared,20180000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2019 - 21,62.7,62.5,62.9,,,,,,,Not compared,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2019 - 21,52.0,51.3,52.7,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2019 - 21,56.2,55.5,56.9,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2019 - 21,59.2,58.5,59.9,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2019 - 21,60.5,59.8,61.2,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2019 - 21,63.8,63.2,64.5,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2019 - 21,64.8,64.1,65.4,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2019 - 21,65.7,65.0,66.4,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2019 - 21,67.1,66.5,67.8,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2019 - 21,68.6,68.0,69.2,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2019 - 21,70.4,69.9,71.0,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2019 - 21,63.7,63.5,64.0,,,,,,,Not compared,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2019 - 21,51.4,50.6,52.2,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2019 - 21,56.2,55.4,57.1,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2019 - 21,60.3,59.5,61.1,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2019 - 21,61.6,60.8,62.4,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2019 - 21,64.3,63.5,65.1,,,,,,,Similar,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2019 - 21,64.7,63.9,65.4,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2019 - 21,67.2,66.5,67.9,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2019 - 21,68.5,67.9,69.2,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2019 - 21,69.1,68.4,69.7,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2019 - 21,70.3,69.6,71.0,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2019 - 21,62.7,62.5,62.9,,,,,,,Similar,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2019 - 21,52.0,51.3,52.7,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2019 - 21,56.2,55.5,56.9,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2019 - 21,59.2,58.5,59.9,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2019 - 21,60.5,59.8,61.2,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2019 - 21,63.8,63.2,64.5,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2019 - 21,64.8,64.1,65.4,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2019 - 21,65.7,65.0,66.4,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2019 - 21,67.1,66.5,67.8,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2019 - 21,68.6,68.0,69.2,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2019 - 21,70.4,69.9,71.0,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2019 - 21,63.7,63.5,64.0,,,,,,,Similar,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2019 - 21,51.4,50.6,52.2,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2019 - 21,56.2,55.4,57.1,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2019 - 21,60.3,59.5,61.1,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2019 - 21,61.6,60.8,62.4,,,,,,,Worse,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2019 - 21,64.3,63.5,65.1,,,,,,,Similar,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2019 - 21,64.7,63.9,65.4,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2019 - 21,67.2,66.5,67.9,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2019 - 21,68.5,67.9,69.2,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2019 - 21,69.1,68.4,69.7,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2019 - 21,70.3,69.6,71.0,,,,,,,Better,Not compared,20190000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2020 - 22,62.3,62.1,62.5,,,,,,,Not compared,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2020 - 22,51.4,50.6,52.2,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2020 - 22,55.9,55.1,56.7,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2020 - 22,59.0,58.3,59.8,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2020 - 22,60.3,59.6,61.1,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2020 - 22,62.8,62.1,63.5,,,,,,,Similar,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2020 - 22,64.4,63.7,65.1,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2020 - 22,65.4,64.8,66.1,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2020 - 22,67.0,66.3,67.6,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2020 - 22,68.4,67.8,69.0,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2020 - 22,70.2,69.7,70.8,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2020 - 22,62.8,62.5,63.1,,,,,,,Not compared,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2020 - 22,50.3,49.4,51.2,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2020 - 22,54.8,53.9,55.7,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2020 - 22,59.1,58.2,59.9,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2020 - 22,61.1,60.3,61.9,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2020 - 22,62.9,62.0,63.7,,,,,,,Similar,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2020 - 22,64.2,63.4,65.0,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2020 - 22,66.2,65.5,67.0,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2020 - 22,67.9,67.2,68.6,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2020 - 22,68.6,67.9,69.3,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2020 - 22,70.0,69.4,70.7,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2020 - 22,62.3,62.1,62.5,,,,,,,Similar,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2020 - 22,51.4,50.6,52.2,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2020 - 22,55.9,55.1,56.7,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2020 - 22,59.0,58.3,59.8,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2020 - 22,60.3,59.6,61.1,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2020 - 22,62.8,62.1,63.5,,,,,,,Similar,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2020 - 22,64.4,63.7,65.1,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2020 - 22,65.4,64.8,66.1,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2020 - 22,67.0,66.3,67.6,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2020 - 22,68.4,67.8,69.0,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2020 - 22,70.2,69.7,70.8,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2020 - 22,62.8,62.5,63.1,,,,,,,Similar,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2020 - 22,50.3,49.4,51.2,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2020 - 22,54.8,53.9,55.7,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2020 - 22,59.1,58.2,59.9,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2020 - 22,61.1,60.3,61.9,,,,,,,Worse,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2020 - 22,62.9,62.0,63.7,,,,,,,Similar,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2020 - 22,64.2,63.4,65.0,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2020 - 22,66.2,65.5,67.0,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2020 - 22,67.9,67.2,68.6,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2020 - 22,68.6,67.9,69.3,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2020 - 22,70.0,69.4,70.7,,,,,,,Better,Not compared,20200000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2021 - 23,61.5,61.3,61.8,,,,,,,Not compared,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2021 - 23,50.2,49.3,51.1,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2021 - 23,54.8,53.9,55.6,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2021 - 23,58.3,57.4,59.1,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2021 - 23,60.7,59.9,61.5,,,,,,,Similar,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2021 - 23,62.1,61.3,62.8,,,,,,,Similar,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2021 - 23,63.8,63.0,64.5,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2021 - 23,63.9,63.1,64.6,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2021 - 23,66.1,65.4,66.8,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2021 - 23,67.7,67.1,68.4,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2021 - 23,70.0,69.3,70.6,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2021 - 23,61.9,61.6,62.2,,,,,,,Not compared,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2021 - 23,48.8,47.9,49.8,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2021 - 23,54.2,53.3,55.2,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2021 - 23,57.4,56.5,58.4,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2021 - 23,60.7,59.8,61.6,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2021 - 23,62.9,62.0,63.8,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2021 - 23,64.4,63.5,65.3,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2021 - 23,64.6,63.8,65.5,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2021 - 23,66.3,65.5,67.1,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2021 - 23,67.6,66.8,68.4,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2021 - 23,69.1,68.4,69.9,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2021 - 23,61.5,61.3,61.8,,,,,,,Similar,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2021 - 23,50.2,49.3,51.1,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2021 - 23,54.8,53.9,55.6,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2021 - 23,58.3,57.4,59.1,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2021 - 23,60.7,59.9,61.5,,,,,,,Similar,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2021 - 23,62.1,61.3,62.8,,,,,,,Similar,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2021 - 23,63.8,63.0,64.5,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2021 - 23,63.9,63.1,64.6,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2021 - 23,66.1,65.4,66.8,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2021 - 23,67.7,67.1,68.4,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2021 - 23,70.0,69.3,70.6,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2021 - 23,61.9,61.6,62.2,,,,,,,Similar,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2021 - 23,48.8,47.9,49.8,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2021 - 23,54.2,53.3,55.2,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2021 - 23,57.4,56.5,58.4,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2021 - 23,60.7,59.8,61.6,,,,,,,Worse,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2021 - 23,62.9,62.0,63.8,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2021 - 23,64.4,63.5,65.3,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2021 - 23,64.6,63.8,65.5,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2021 - 23,66.3,65.5,67.1,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2021 - 23,67.6,66.8,68.4,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2021 - 23,69.1,68.4,69.9,,,,,,,Better,Not compared,20210000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,,,2022 - 24,60.9,60.7,61.2,,,,,,Cannot be calculated,Not compared,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2022 - 24,49.8,48.9,50.7,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2022 - 24,54.1,53.2,55.0,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2022 - 24,56.9,56.0,57.8,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2022 - 24,60.1,59.3,61.0,,,,,,Cannot be calculated,Similar,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2022 - 24,62.2,61.4,63.0,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2022 - 24,62.8,62.0,63.6,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2022 - 24,64.0,63.2,64.8,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2022 - 24,65.5,64.7,66.2,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2022 - 24,66.8,66.0,67.5,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2022 - 24,69.2,68.6,69.9,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,,,2022 - 24,61.3,61.0,61.6,,,,,,Cannot be calculated,Not compared,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2022 - 24,48.2,47.2,49.2,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2022 - 24,55.1,54.2,56.0,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2022 - 24,56.9,55.8,57.9,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2022 - 24,58.5,57.4,59.5,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2022 - 24,61.8,60.8,62.7,,,,,,Cannot be calculated,Similar,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2022 - 24,63.8,62.9,64.7,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2022 - 24,64.9,64.0,65.8,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2022 - 24,65.4,64.6,66.3,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2022 - 24,67.4,66.5,68.2,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,,,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2022 - 24,68.5,67.7,69.3,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,,,2022 - 24,60.9,60.7,61.2,,,,,,Cannot be calculated,Similar,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2022 - 24,49.8,48.9,50.7,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2022 - 24,54.1,53.2,55.0,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2022 - 24,56.9,56.0,57.8,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2022 - 24,60.1,59.3,61.0,,,,,,Cannot be calculated,Similar,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2022 - 24,62.2,61.4,63.0,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2022 - 24,62.8,62.0,63.6,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2022 - 24,64.0,63.2,64.8,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2022 - 24,65.5,64.7,66.2,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2022 - 24,66.8,66.0,67.5,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Male,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2022 - 24,69.2,68.6,69.9,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,,,2022 - 24,61.3,61.0,61.6,,,,,,Cannot be calculated,Similar,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Most deprived decile,2022 - 24,48.2,47.2,49.2,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second most deprived decile,2022 - 24,55.1,54.2,56.0,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third more deprived decile,2022 - 24,56.9,55.8,57.9,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth more deprived decile,2022 - 24,58.5,57.4,59.5,,,,,,Cannot be calculated,Worse,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth more deprived decile,2022 - 24,61.8,60.8,62.7,,,,,,Cannot be calculated,Similar,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fifth less deprived decile,2022 - 24,63.8,62.9,64.7,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Fourth less deprived decile,2022 - 24,64.9,64.0,65.8,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Third less deprived decile,2022 - 24,65.4,64.6,66.3,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Second least deprived decile,2022 - 24,67.4,66.5,68.2,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
+90362,Healthy life expectancy at birth,E92000001,England,E92000001,England,England,Female,All ages,"LSOA21 deprivation deciles within area (IMD trend)
+",Least deprived decile,2022 - 24,68.5,67.7,69.3,,,,,,Cannot be calculated,Better,Not compared,20220000,,,3y
