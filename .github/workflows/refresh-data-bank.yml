@@ -1,0 +1,44 @@
+name: Refresh NHS data bank
+
+# Runs all seven source fetchers and commits whatever's new. Two of the seven
+# (OpenPrescribing, NHS Digital) only work from here -- they reject requests
+# from the Claude sandbox with a Cloudflare bot-challenge. The other five
+# also work from the sandbox, but running them here too means everything
+# lands in one place on one schedule, rather than half the bank being a
+# manually-refreshed snapshot and half being properly automated.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"  # Monday 06:00 UTC -- matches how often these sources actually update
+  workflow_dispatch: {}    # manual "Run workflow" button in the Actions tab
+
+# Without this, the Action's temporary token defaults to read-only and the
+# "git push" step at the end fails with a 403 -- this was the actual cause
+# of the first run's failure, not the fetch scripts (both fetch steps had
+# already succeeded).
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch everything
+        run: python3 scripts/fetch_all.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "data-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Automated data refresh $(date -u +%Y-%m-%d)"
+          git push
