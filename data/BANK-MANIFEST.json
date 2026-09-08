@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T23:40:13.826065+00:00",
+  "generated_at_utc": "2026-09-08T13:01:39.750573+00:00",
   "sources": {
     "cvdprevent": {
       "file_count": 53,
@@ -294,11 +294,15 @@
       ]
     },
     "cqc": {
-      "file_count": 1,
-      "total_bytes": 18947416,
+      "file_count": 2,
+      "total_bytes": 37837742,
       "files": [
         {
           "path": "cqc/2026-09-07_CQC_directory.csv",
+          "bytes": 18890326
+        },
+        {
+          "path": "cqc/2026-09-08_CQC_directory.csv",
           "bytes": 18947416
         }
       ]
@@ -434,18 +438,29 @@
       ]
     },
     "openprescribing": {
-      "file_count": 0,
-      "total_bytes": 0,
-      "files": []
+      "file_count": 2,
+      "total_bytes": 378222,
+      "files": [
+        {
+          "path": "openprescribing/items for drugs used in diabetes per.csv",
+          "bytes": 188449
+        },
+        {
+          "path": "openprescribing/items for cardiovascular system per.csv",
+          "bytes": 189773
+        }
+      ]
     },
     "nda": {
-      "file_count": 0,
-      "total_bytes": 0,
-      "files": []
+      "file_count": 1,
+      "total_bytes": 12015418,
+      "files": [
+        {
+          "path": "nda/2025-26/National Diabetes Audit, 2025-26, April 2025 to March 2026.xlsx",
+          "bytes": 12015418
+        }
+      ]
     }
   },
-  "warnings": [
-    "openprescribing: folder does not exist -- this source has never run successfully",
-    "nda: folder does not exist -- this source has never run successfully"
-  ]
+  "warnings": []
 }
