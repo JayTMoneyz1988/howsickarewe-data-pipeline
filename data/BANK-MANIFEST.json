@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-08T13:01:39.750573+00:00",
+  "generated_at_utc": "2026-09-14T12:00:11.631976+00:00",
   "sources": {
     "cvdprevent": {
       "file_count": 53,
@@ -294,8 +294,8 @@
       ]
     },
     "cqc": {
-      "file_count": 2,
-      "total_bytes": 37837742,
+      "file_count": 3,
+      "total_bytes": 56747822,
       "files": [
         {
           "path": "cqc/2026-09-07_CQC_directory.csv",
@@ -303,7 +303,11 @@
         },
         {
           "path": "cqc/2026-09-08_CQC_directory.csv",
-          "bytes": 18947416
+          "bytes": 18890326
+        },
+        {
+          "path": "cqc/2026-09-14_CQC_directory.csv",
+          "bytes": 18967170
         }
       ]
     },
