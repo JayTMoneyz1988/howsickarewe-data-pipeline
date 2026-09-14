@@ -44,6 +44,9 @@ jobs:
       - name: Fetch IMD
         run: python3 scripts/fetch_imd.py
 
+      - name: Fetch DM01
+        run: python3 scripts/fetch_dm01.py 
+
       - name: Update manifest
         run: python3 scripts/update_manifest.py
 
