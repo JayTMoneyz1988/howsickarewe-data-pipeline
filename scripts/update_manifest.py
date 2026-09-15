@@ -23,7 +23,7 @@ MANIFEST_PATH = Path(__file__).resolve().parent.parent / "data" / "BANK-MANIFEST
 
 EXPECTED_SOURCES = [
     "cvdprevent", "fingertips", "cqc", "rtt", "fft", "imd",
-    "openprescribing", "nda", "dm01", "ae_attendances",
+    "openprescribing", "nda", "dm01", "ae_attendances", "gp_patient_survey",
 ]
 
 
