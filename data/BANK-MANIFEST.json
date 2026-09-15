@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-15T15:01:05.753458+00:00",
+  "generated_at_utc": "2026-09-15T15:54:17.690137+00:00",
   "sources": {
     "cvdprevent": {
       "file_count": 53,
@@ -542,6 +542,32 @@
         {
           "path": "ae_attendances/August-2026-CSV-De2k3n.csv",
           "bytes": 28180
+        }
+      ]
+    },
+    "gp_patient_survey": {
+      "file_count": 5,
+      "total_bytes": 40696295,
+      "files": [
+        {
+          "path": "gp_patient_survey/GPPS-2026-09-15-region.csv",
+          "bytes": 183741
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-09-15-ics.csv",
+          "bytes": 799624
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-09-15-pcn.csv",
+          "bytes": 22260867
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-09-15-practice-filtered.csv",
+          "bytes": 17396258
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-09-15-national.csv",
+          "bytes": 55805
         }
       ]
     }
