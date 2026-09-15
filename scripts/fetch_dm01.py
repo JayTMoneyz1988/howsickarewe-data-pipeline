@@ -41,11 +41,14 @@ def check_reachable() -> bool:
 def find_current_year_subpage() -> str | None:
     r = requests.get(BASE_INDEX, headers=HEADERS, timeout=20)
     r.raise_for_status()
-    links = sorted(set(re.findall(
-        r'href="(https://www\.england\.nhs\.uk/statistics/[^"]*monthly-diagnostics-data-\d{4}-\d{2}/)"',
+    matches = re.findall(
+        r'href="(https://www\.england\.nhs\.uk/statistics/[^"]*/(monthly-diagnostics-data-(\d{4})-\d{2})/)"',
         r.text,
-    )))
-    return links[-1] if links else None
+    )
+    if not matches:
+        return None
+    best = max(matches, key=lambda m: int(m[2]))
+    return best[0]
 
 
 def run() -> dict:
