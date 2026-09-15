@@ -50,6 +50,9 @@ jobs:
       - name: Fetch A&E attendances
         run: python3 scripts/fetch_ae_attendances.py
 
+      - name: Fetch GP Patient Survey 
+        run: python3 scripts/fetch_gp_patient_survey.py
+
       - name: Update manifest
         run: python3 scripts/update_manifest.py
 
