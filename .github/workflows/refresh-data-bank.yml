@@ -53,6 +53,11 @@ jobs:
       - name: Fetch GP Patient Survey 
         run: python3 scripts/fetch_gp_patient_survey.py
 
+      - name: Fetch CQC ratings
+        env: 
+          CQC_API_KEY: ${{ secrets.CQC_API_KEY }}
+        run: python3 scripts/fetch_cqc_ratings.py 
+
       - name: Update manifest
         run: python3 scripts/update_manifest.py
 
