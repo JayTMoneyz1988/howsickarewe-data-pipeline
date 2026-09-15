@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-14T22:55:54.290808+00:00",
+  "generated_at_utc": "2026-09-15T15:01:05.753458+00:00",
   "sources": {
     "cvdprevent": {
       "file_count": 53,
@@ -294,8 +294,8 @@
       ]
     },
     "cqc": {
-      "file_count": 3,
-      "total_bytes": 56747822,
+      "file_count": 4,
+      "total_bytes": 75657836,
       "files": [
         {
           "path": "cqc/2026-09-07_CQC_directory.csv",
@@ -307,6 +307,10 @@
         },
         {
           "path": "cqc/2026-09-14_CQC_directory.csv",
+          "bytes": 18910014
+        },
+        {
+          "path": "cqc/2026-09-15_CQC_directory.csv",
           "bytes": 18967170
         }
       ]
@@ -524,6 +528,20 @@
         {
           "path": "dm01/DM01-JULY-2026-full-extract_5WSGC.zip",
           "bytes": 1304395
+        }
+      ]
+    },
+    "ae_attendances": {
+      "file_count": 2,
+      "total_bytes": 455188,
+      "files": [
+        {
+          "path": "ae_attendances/August-26-AE-by-provider-r5ic5.xls",
+          "bytes": 427008
+        },
+        {
+          "path": "ae_attendances/August-2026-CSV-De2k3n.csv",
+          "bytes": 28180
         }
       ]
     }
