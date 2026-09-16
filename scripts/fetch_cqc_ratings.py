@@ -57,6 +57,7 @@ GP_PRACTICE_CATEGORY_CODE = "P2"
 
 REQUEST_DELAY_SECONDS = 0.5   # conservative pace - no partner code registered yet
 MAX_RETRIES = 4
+MAX_SKIPPED_ALLOWED = 100   # a handful of CQC-side faults is normal; far more suggests a systemic problem
 
 MIN_EXPECTED_ACTIVE_PRACTICES = 5000   # same expected range as the GP Patient Survey practice count
 MAX_EXPECTED_ACTIVE_PRACTICES = 8000
@@ -64,7 +65,7 @@ MAX_EXPECTED_ACTIVE_PRACTICES = 8000
 KEY_QUESTIONS = ["Safe", "Effective", "Caring", "Responsive", "Well-led"]
 
 
-def get_with_retry(url, params=None):
+def get_with_retry(url, params=None, fail_on_exhausted=True):
     for attempt in range(1, MAX_RETRIES + 1):
         resp = requests.get(url, headers=HEADERS, params=params, timeout=30)
         if resp.status_code == 200:
@@ -74,8 +75,14 @@ def get_with_retry(url, params=None):
             print(f"  {resp.status_code} on {url} - retrying in {wait:.1f}s (attempt {attempt})")
             time.sleep(wait)
             continue
-        sys.exit(f"REVIEW NEEDED: unexpected {resp.status_code} from {url}: {resp.text[:300]}")
-    sys.exit(f"REVIEW NEEDED: {url} failed after {MAX_RETRIES} retries.")
+        if fail_on_exhausted:
+            sys.exit(f"REVIEW NEEDED: unexpected {resp.status_code} from {url}: {resp.text[:300]}")
+        print(f"  SKIPPED: unexpected {resp.status_code} from {url}")
+        return None
+    if fail_on_exhausted:
+        sys.exit(f"REVIEW NEEDED: {url} failed after {MAX_RETRIES} retries.")
+    print(f"  SKIPPED: {url} failed after {MAX_RETRIES} retries - likely a fault on CQC's end for this one record.")
+    return None
 
 
 def list_gp_practice_ids():
@@ -126,18 +133,30 @@ def main():
 
     rows = []
     deregistered_count = 0
+    skipped_ids = []
     for i, location_id in enumerate(candidate_ids, start=1):
-        detail = get_with_retry(f"{API_BASE}/locations/{location_id}")
+        detail = get_with_retry(f"{API_BASE}/locations/{location_id}", fail_on_exhausted=False)
+        if detail is None:
+            skipped_ids.append(location_id)
+            time.sleep(REQUEST_DELAY_SECONDS)
+            continue
         if detail.get("registrationStatus") != "Registered":
             deregistered_count += 1
             time.sleep(REQUEST_DELAY_SECONDS)
             continue
         rows.append(extract_ratings(detail))
         if i % 250 == 0:
-            print(f"  Processed {i}/{len(candidate_ids)} ({len(rows)} active so far)")
+            print(f"  Processed {i}/{len(candidate_ids)} ({len(rows)} active so far, {len(skipped_ids)} skipped)")
         time.sleep(REQUEST_DELAY_SECONDS)
 
-    print(f"Active GP practices: {len(rows)} (excluded {deregistered_count} deregistered/closed)")
+    print(f"Active GP practices: {len(rows)} (excluded {deregistered_count} deregistered/closed, "
+          f"{len(skipped_ids)} skipped due to persistent API errors)")
+
+    if len(skipped_ids) > MAX_SKIPPED_ALLOWED:
+        sys.exit(f"REVIEW NEEDED: {len(skipped_ids)} locations failed after retries - well above the "
+                  f"{MAX_SKIPPED_ALLOWED} expected for occasional CQC-side faults. This may indicate a "
+                  f"systemic problem (e.g. throttling) rather than isolated bad records. "
+                  f"Failed IDs: {skipped_ids[:20]}{'...' if len(skipped_ids) > 20 else ''}")
 
     if not (MIN_EXPECTED_ACTIVE_PRACTICES <= len(rows) <= MAX_EXPECTED_ACTIVE_PRACTICES):
         sys.exit(f"REVIEW NEEDED: {len(rows)} active GP practices found - expected roughly "
