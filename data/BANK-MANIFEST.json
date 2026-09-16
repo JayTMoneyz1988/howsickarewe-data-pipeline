@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-15T15:54:17.690137+00:00",
+  "generated_at_utc": "2026-09-16T13:40:34.420906+00:00",
   "sources": {
     "cvdprevent": {
       "file_count": 53,
@@ -221,7 +221,7 @@
     },
     "fingertips": {
       "file_count": 17,
-      "total_bytes": 8225620,
+      "total_bytes": 8225432,
       "files": [
         {
           "path": "fingertips/93881_icb.csv",
@@ -237,7 +237,7 @@
         },
         {
           "path": "fingertips/manifest.json",
-          "bytes": 1543
+          "bytes": 2155
         },
         {
           "path": "fingertips/93881_england.csv",
@@ -269,7 +269,7 @@
         },
         {
           "path": "fingertips/90362_england.csv",
-          "bytes": 103395
+          "bytes": 102995
         },
         {
           "path": "fingertips/93015_icb.csv",
@@ -289,13 +289,13 @@
         },
         {
           "path": "fingertips/90362_icb.csv",
-          "bytes": 317098
+          "bytes": 316698
         }
       ]
     },
     "cqc": {
-      "file_count": 4,
-      "total_bytes": 75657836,
+      "file_count": 5,
+      "total_bytes": 94567850,
       "files": [
         {
           "path": "cqc/2026-09-07_CQC_directory.csv",
@@ -306,12 +306,16 @@
           "bytes": 18890326
         },
         {
+          "path": "cqc/2026-09-16_CQC_directory.csv",
+          "bytes": 18967170
+        },
+        {
           "path": "cqc/2026-09-14_CQC_directory.csv",
           "bytes": 18910014
         },
         {
           "path": "cqc/2026-09-15_CQC_directory.csv",
-          "bytes": 18967170
+          "bytes": 18910014
         }
       ]
     },
@@ -533,7 +537,7 @@
     },
     "ae_attendances": {
       "file_count": 2,
-      "total_bytes": 455188,
+      "total_bytes": 454995,
       "files": [
         {
           "path": "ae_attendances/August-26-AE-by-provider-r5ic5.xls",
@@ -541,33 +545,63 @@
         },
         {
           "path": "ae_attendances/August-2026-CSV-De2k3n.csv",
-          "bytes": 28180
+          "bytes": 27987
         }
       ]
     },
     "gp_patient_survey": {
-      "file_count": 5,
-      "total_bytes": 40696295,
+      "file_count": 10,
+      "total_bytes": 81385078,
       "files": [
         {
+          "path": "gp_patient_survey/GPPS-2026-09-16-ics.csv",
+          "bytes": 799624
+        },
+        {
           "path": "gp_patient_survey/GPPS-2026-09-15-region.csv",
+          "bytes": 183733
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-09-16-region.csv",
           "bytes": 183741
         },
         {
           "path": "gp_patient_survey/GPPS-2026-09-15-ics.csv",
-          "bytes": 799624
+          "bytes": 799587
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-09-16-national.csv",
+          "bytes": 55805
         },
         {
           "path": "gp_patient_survey/GPPS-2026-09-15-pcn.csv",
-          "bytes": 22260867
+          "bytes": 22259569
         },
         {
-          "path": "gp_patient_survey/GPPS-2026-09-15-practice-filtered.csv",
+          "path": "gp_patient_survey/GPPS-2026-09-16-practice-filtered.csv",
           "bytes": 17396258
         },
         {
+          "path": "gp_patient_survey/GPPS-2026-09-15-practice-filtered.csv",
+          "bytes": 17390091
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-09-16-pcn.csv",
+          "bytes": 22260867
+        },
+        {
           "path": "gp_patient_survey/GPPS-2026-09-15-national.csv",
-          "bytes": 55805
+          "bytes": 55803
+        }
+      ]
+    },
+    "cqc_ratings": {
+      "file_count": 1,
+      "total_bytes": 1129543,
+      "files": [
+        {
+          "path": "cqc_ratings/CQC-ratings-2026-09-16.csv",
+          "bytes": 1129543
         }
       ]
     }

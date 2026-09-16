@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-09-15T15:53:29.272402+00:00",
+  "fetched_at_utc": "2026-09-16T10:27:14.623895+00:00",
   "files": [
     "93722_england.csv",
     "93722_region.csv",
@@ -10,13 +10,7 @@
     "241_icb.csv",
     "91547_england.csv",
     "91547_icb.csv",
-    "93881_england.csv",
-    "93881_icb.csv",
-    "93015_england.csv",
-    "93015_icb.csv",
-    "93465_england.csv",
-    "90362_england.csv",
-    "90362_icb.csv"
+    "93881_england.csv"
   ],
   "failed": [
     {
@@ -40,24 +34,54 @@
       "note": "empty -- indicator may not publish at this geography"
     },
     {
+      "indicator_id": 93881,
+      "level": "icb",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "indicator_id": 93015,
+      "level": "england",
+      "error": "Remote end closed connection without response"
+    },
+    {
       "indicator_id": 93015,
       "level": "region",
-      "note": "empty -- indicator may not publish at this geography"
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "indicator_id": 93015,
+      "level": "icb",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "indicator_id": 93465,
+      "level": "england",
+      "error": "Remote end closed connection without response"
     },
     {
       "indicator_id": 93465,
       "level": "region",
-      "note": "empty -- indicator may not publish at this geography"
+      "error": "Remote end closed connection without response"
     },
     {
       "indicator_id": 93465,
       "level": "icb",
-      "note": "empty -- indicator may not publish at this geography"
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "indicator_id": 90362,
+      "level": "england",
+      "error": "Remote end closed connection without response"
     },
     {
       "indicator_id": 90362,
       "level": "region",
-      "note": "empty -- indicator may not publish at this geography"
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "indicator_id": 90362,
+      "level": "icb",
+      "error": "Remote end closed connection without response"
     }
   ]
 }
