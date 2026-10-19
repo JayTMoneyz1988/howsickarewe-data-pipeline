@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-12T18:01:33.377655+00:00",
+  "generated_at_utc": "2026-10-19T15:12:27.126329+00:00",
   "sources": {
     "cvdprevent": {
       "file_count": 53,
@@ -294,16 +294,20 @@
       ]
     },
     "cqc": {
-      "file_count": 9,
-      "total_bytes": 170182677,
+      "file_count": 10,
+      "total_bytes": 189081463,
       "files": [
         {
           "path": "cqc/2026-09-15_CQC_directory.csv",
           "bytes": 18910014
         },
         {
+          "path": "cqc/2026-10-19_CQC_directory.csv",
+          "bytes": 18955920
+        },
+        {
           "path": "cqc/2026-10-12_CQC_directory.csv",
-          "bytes": 18961397
+          "bytes": 18904263
         },
         {
           "path": "cqc/2026-09-21_CQC_directory.csv",
@@ -566,8 +570,8 @@
       ]
     },
     "gp_patient_survey": {
-      "file_count": 30,
-      "total_bytes": 244140210,
+      "file_count": 35,
+      "total_bytes": 284828993,
       "files": [
         {
           "path": "gp_patient_survey/GPPS-2026-09-28-pcn.csv",
@@ -578,12 +582,20 @@
           "bytes": 55803
         },
         {
+          "path": "gp_patient_survey/GPPS-2026-10-19-practice-filtered.csv",
+          "bytes": 17396258
+        },
+        {
           "path": "gp_patient_survey/GPPS-2026-10-05-ics.csv",
           "bytes": 799587
         },
         {
           "path": "gp_patient_survey/GPPS-2026-09-16-ics.csv",
           "bytes": 799587
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-10-19-region.csv",
+          "bytes": 183741
         },
         {
           "path": "gp_patient_survey/GPPS-2026-10-05-national.csv",
@@ -603,7 +615,7 @@
         },
         {
           "path": "gp_patient_survey/GPPS-2026-10-12-pcn.csv",
-          "bytes": 22260867
+          "bytes": 22259569
         },
         {
           "path": "gp_patient_survey/GPPS-2026-09-21-national.csv",
@@ -631,19 +643,27 @@
         },
         {
           "path": "gp_patient_survey/GPPS-2026-10-12-ics.csv",
-          "bytes": 799624
+          "bytes": 799587
         },
         {
           "path": "gp_patient_survey/GPPS-2026-10-12-region.csv",
-          "bytes": 183741
+          "bytes": 183733
         },
         {
           "path": "gp_patient_survey/GPPS-2026-09-16-region.csv",
           "bytes": 183733
         },
         {
+          "path": "gp_patient_survey/GPPS-2026-10-19-national.csv",
+          "bytes": 55805
+        },
+        {
           "path": "gp_patient_survey/GPPS-2026-09-28-practice-filtered.csv",
           "bytes": 17390091
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-10-19-pcn.csv",
+          "bytes": 22260867
         },
         {
           "path": "gp_patient_survey/GPPS-2026-09-28-ics.csv",
@@ -655,7 +675,7 @@
         },
         {
           "path": "gp_patient_survey/GPPS-2026-10-12-practice-filtered.csv",
-          "bytes": 17396258
+          "bytes": 17390091
         },
         {
           "path": "gp_patient_survey/GPPS-2026-09-15-pcn.csv",
@@ -671,7 +691,11 @@
         },
         {
           "path": "gp_patient_survey/GPPS-2026-10-12-national.csv",
-          "bytes": 55805
+          "bytes": 55803
+        },
+        {
+          "path": "gp_patient_survey/GPPS-2026-10-19-ics.csv",
+          "bytes": 799624
         },
         {
           "path": "gp_patient_survey/GPPS-2026-09-16-practice-filtered.csv",
@@ -692,8 +716,8 @@
       ]
     },
     "cqc_ratings": {
-      "file_count": 5,
-      "total_bytes": 5614930,
+      "file_count": 6,
+      "total_bytes": 6731865,
       "files": [
         {
           "path": "cqc_ratings/CQC-ratings-2026-09-16.csv",
@@ -702,6 +726,10 @@
         {
           "path": "cqc_ratings/CQC-ratings-2026-09-21.csv",
           "bytes": 1122636
+        },
+        {
+          "path": "cqc_ratings/CQC-ratings-2026-10-19.csv",
+          "bytes": 1123219
         },
         {
           "path": "cqc_ratings/CQC-ratings-2026-10-05.csv",
@@ -713,7 +741,7 @@
         },
         {
           "path": "cqc_ratings/CQC-ratings-2026-10-12.csv",
-          "bytes": 1126789
+          "bytes": 1120505
         }
       ]
     }
