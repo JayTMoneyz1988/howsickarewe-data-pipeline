@@ -1,0 +1,29 @@
+AreaCode,AreaName,CategoryAttribute,Denominator,Factor,HighestPriorityNotificationType,IndicatorCode,IndicatorName,IndicatorShortName,LowerConfidenceLimit,MetricCategoryName,MetricCategoryTypeName,NotificationCount,Numerator,TimePeriodName,UpperConfidenceLimit,Value,ValueNote
+E92000001,England,Persons,50682275.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.72,Persons,Sex,0,1382898.0,To June 2026,2.73,2.73,
+E92000001,England,Female,25509262.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.2,Female,Sex,0,562766.0,To June 2026,2.21,2.21,
+E92000001,England,Male,25173013.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),3.25,Male,Sex,0,820132.0,To June 2026,3.26,3.26,
+E92000001,England,Male,9590596.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),0.1,18-39,Age group,0,10259.0,To June 2026,0.11,0.11,
+E92000001,England,Female,9385973.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),0.04,18-39,Age group,0,3423.0,To June 2026,0.04,0.04,
+E92000001,England,Persons,18976569.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),0.07,18-39,Age group,0,13682.0,To June 2026,0.07,0.07,
+E92000001,England,Male,8270701.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),0.98,40-59,Age group,0,81722.0,To June 2026,0.99,0.99,
+E92000001,England,Female,7957371.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),0.37,40-59,Age group,0,30088.0,To June 2026,0.38,0.38,
+E92000001,England,Persons,16228072.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),0.68,40-59,Age group,0,111810.0,To June 2026,0.69,0.69,
+E92000001,England,Male,5952249.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),7.12,60-79,Age group,0,424750.0,To June 2026,7.16,7.14,
+E92000001,England,Female,6287165.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),3.65,60-79,Age group,0,230633.0,To June 2026,3.68,3.67,
+E92000001,England,Persons,12239414.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),5.34,60-79,Age group,0,655383.0,To June 2026,5.37,5.35,
+E92000001,England,Male,1359467.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),22.25,80+,Age group,0,303401.0,To June 2026,22.39,22.32,
+E92000001,England,Female,1878753.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),15.84,80+,Age group,0,298622.0,To June 2026,15.95,15.89,
+E92000001,England,Persons,3238220.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),18.55,80+,Age group,0,602023.0,To June 2026,18.63,18.59,
+E92000001,England,Persons,9823674.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.08,1 - most deprived,Deprivation quintile,0,205204.0,To June 2026,2.1,2.09,
+E92000001,England,Persons,9881090.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.44,2,Deprivation quintile,0,242427.0,To June 2026,2.46,2.45,
+E92000001,England,Persons,9534712.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),3.06,3,Deprivation quintile,0,292470.0,To June 2026,3.08,3.07,
+E92000001,England,Persons,9185630.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),3.45,4,Deprivation quintile,0,317532.0,To June 2026,3.47,3.46,
+E92000001,England,Persons,9018031.0,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),3.59,5 - least deprived,Deprivation quintile,0,325158.0,To June 2026,3.62,3.61,
+E92000001,England,Female,,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.05,Female,Sex - Age Standardised,0,,To June 2026,2.06,2.05,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Male,,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),3.64,Male,Sex - Age Standardised,0,,To June 2026,3.66,3.65,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.79,Persons,Sex - Age Standardised,0,,To June 2026,2.8,2.8,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.81,1 - most deprived,Deprivation quintile - Age Standardised,0,,To June 2026,2.83,2.82,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.73,2,Deprivation quintile - Age Standardised,0,,To June 2026,2.76,2.75,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.75,3,Deprivation quintile - Age Standardised,0,,To June 2026,2.77,2.76,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.76,4,Deprivation quintile - Age Standardised,0,,To June 2026,2.78,2.77,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001AF,Prevalence of GP recorded atrial fibrillation,AF: Prevalence (CVDP001AF),2.71,5 - least deprived,Deprivation quintile - Age Standardised,0,,To June 2026,2.73,2.72,Numerators and Denominators are not provided for Age Standardisation.

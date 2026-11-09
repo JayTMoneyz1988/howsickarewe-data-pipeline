@@ -1,0 +1,29 @@
+AreaCode,AreaName,CategoryAttribute,Denominator,Factor,HighestPriorityNotificationType,IndicatorCode,IndicatorName,IndicatorShortName,LowerConfidenceLimit,MetricCategoryName,MetricCategoryTypeName,NotificationCount,Numerator,TimePeriodName,UpperConfidenceLimit,Value,ValueNote
+E92000001,England,Persons,50682275.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.69,Persons,Sex,0,2378763.0,To June 2026,4.7,4.69,
+E92000001,England,Female,25509262.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),5.18,Female,Sex,0,1324527.0,To June 2026,5.2,5.19,
+E92000001,England,Male,25173013.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.18,Male,Sex,0,1054236.0,To June 2026,4.2,4.19,
+E92000001,England,Male,9590596.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),0.1,18-39,Age group,0,9654.0,To June 2026,0.1,0.1,
+E92000001,England,Female,9385973.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),0.09,18-39,Age group,0,8212.0,To June 2026,0.09,0.09,
+E92000001,England,Persons,18976569.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),0.09,18-39,Age group,0,17866.0,To June 2026,0.1,0.09,
+E92000001,England,Male,8270701.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),0.97,40-59,Age group,0,80474.0,To June 2026,0.98,0.97,
+E92000001,England,Female,7957371.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),1.03,40-59,Age group,0,82730.0,To June 2026,1.05,1.04,
+E92000001,England,Persons,16228072.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),1.0,40-59,Age group,0,163204.0,To June 2026,1.01,1.01,
+E92000001,England,Male,5952249.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),8.52,60-79,Age group,0,508461.0,To June 2026,8.56,8.54,
+E92000001,England,Female,6287165.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),9.12,60-79,Age group,0,574718.0,To June 2026,9.16,9.14,
+E92000001,England,Persons,12239414.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),8.83,60-79,Age group,0,1083179.0,To June 2026,8.87,8.85,
+E92000001,England,Male,1359467.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),33.44,80+,Age group,0,455647.0,To June 2026,33.6,33.52,
+E92000001,England,Female,1878753.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),35.0,80+,Age group,0,658867.0,To June 2026,35.14,35.07,
+E92000001,England,Persons,3238220.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),34.37,80+,Age group,0,1114514.0,To June 2026,34.47,34.42,
+E92000001,England,Persons,9823674.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.25,1 - most deprived,Deprivation quintile,0,418772.0,To June 2026,4.28,4.26,
+E92000001,England,Persons,9881090.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.66,2,Deprivation quintile,0,462130.0,To June 2026,4.69,4.68,
+E92000001,England,Persons,9534712.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),5.2,3,Deprivation quintile,0,497528.0,To June 2026,5.23,5.22,
+E92000001,England,Persons,9185630.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),5.54,4,Deprivation quintile,0,510600.0,To June 2026,5.57,5.56,
+E92000001,England,Persons,9018031.0,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),5.42,5 - least deprived,Deprivation quintile,0,489800.0,To June 2026,5.45,5.43,
+E92000001,England,Female,,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.86,Female,Sex - Age Standardised,0,,To June 2026,4.88,4.87,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Male,,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.74,Male,Sex - Age Standardised,0,,To June 2026,4.76,4.75,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.8,Persons,Sex - Age Standardised,0,,To June 2026,4.82,4.81,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),5.71,1 - most deprived,Deprivation quintile - Age Standardised,0,,To June 2026,5.74,5.72,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),5.17,2,Deprivation quintile - Age Standardised,0,,To June 2026,5.2,5.19,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.59,3,Deprivation quintile - Age Standardised,0,,To June 2026,4.62,4.6,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),4.32,4,Deprivation quintile - Age Standardised,0,,To June 2026,4.34,4.33,Numerators and Denominators are not provided for Age Standardisation.
+E92000001,England,Persons,,,,CVDP001CKD,Prevalence of GP recorded CKD (G3a to G5) ,CKD: Prevalence (CVDP001CKD),3.94,5 - least deprived,Deprivation quintile - Age Standardised,0,,To June 2026,3.96,3.95,Numerators and Denominators are not provided for Age Standardisation.
